@@ -2,3 +2,5 @@ Section 1
 I am making changes on my outline file inside the udemyrepopractice folder via VS code. 
 Then I will add these changes to staging before I commit. 
 Let's see whether it works actually. 
+
+I am pretending to write a novel about time travel.
