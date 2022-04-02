@@ -1,3 +1,7 @@
+=======
+outline
+=======
+
 Time Travel Basics
 This is not a time travel machine. 
 It is the simulation of a parellel time-line where players can experience and alternative reality. 
