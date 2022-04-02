@@ -1,3 +1,7 @@
+===
+outline
+===
+
 Section 1
 I am making changes on my outline file inside the udemyrepopractice folder via VS code. 
 Then I will add these changes to staging before I commit. 
