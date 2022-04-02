@@ -7,3 +7,5 @@ Or, players can go to future and play the simulation of an alternative future th
 In order for the AI to predict probability of an alternative present or the future, it needs to analyse data of the player's life. 
 For the past events, it will have the recording of everthing that has already happened so the players can travel back in any given moment. 
 Using a similar calculation, the AI will offer an alternative present if the player makes different choices.
+
+Players need to voluntarily give all data about their lives including their darkest secrets.
