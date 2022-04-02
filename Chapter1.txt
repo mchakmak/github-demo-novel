@@ -1,9 +1,9 @@
 Time Travel Basics
 This is not a time travel machine. 
-It is the simulation of a parellel time-line where users can experience and alternative reality. 
-This means users can go back in time and make different choices and play the simulation of an alternative present. 
-Or, users can go to future and play the simulation of an alternative future that AI predicted which might happen to them in the future based on the anlaysis of their previous choices and lifestyle.
+It is the simulation of a parellel time-line where players can experience and alternative reality. 
+This means players can go back in time and make different choices and play the simulation of an alternative present. 
+Or, players can go to future and play the simulation of an alternative future that AI predicted which might happen to them in the future based on the anlaysis of their previous choices and lifestyle.
 
-In order for the AI to predict probability of an alternative present or the future, it needs to analyse data of the user's life. 
-For the past events, it will have the recording of everthing that has already happened so the users can travel back in any given moment. 
-Using a similar calculation, the AI will offer an alternative present if the user makes different choices.
+In order for the AI to predict probability of an alternative present or the future, it needs to analyse data of the player's life. 
+For the past events, it will have the recording of everthing that has already happened so the players can travel back in any given moment. 
+Using a similar calculation, the AI will offer an alternative present if the player makes different choices.
