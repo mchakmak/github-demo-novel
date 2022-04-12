@@ -8,3 +8,8 @@ Then I will add these changes to staging before I commit.
 Let's see whether it works actually. 
 
 I am pretending to write a novel about time travel.
+
+How can we travel in time or experience the simulation of it. 
+No matter what we do, we will be only creating an alternative reality rather than manipulating
+the existing timeline as something that is done cannot be undone and
+one cannot bath in the same river twice.
